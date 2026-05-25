@@ -1,0 +1,15 @@
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net10.0\OpenClosePrinciple.exe
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net10.0\OpenClosePrinciple.deps.json
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net10.0\OpenClosePrinciple.runtimeconfig.json
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net10.0\OpenClosePrinciple.dll
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net10.0\OpenClosePrinciple.pdb
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net10.0\OpenClosePrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net10.0\OpenClosePrinciple.AssemblyInfoInputs.cache
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net10.0\OpenClosePrinciple.AssemblyInfo.cs
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net10.0\OpenClosePrinciple.csproj.CoreCompileInputs.cache
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net10.0\OpenClosePrinciple.sourcelink.json
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net10.0\OpenClosePrinciple.dll
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net10.0\refint\OpenClosePrinciple.dll
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net10.0\OpenClosePrinciple.pdb
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net10.0\OpenClosePrinciple.genruntimeconfig.cache
+C:\Users\manu_\source\repos\ASP.NET\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net10.0\ref\OpenClosePrinciple.dll

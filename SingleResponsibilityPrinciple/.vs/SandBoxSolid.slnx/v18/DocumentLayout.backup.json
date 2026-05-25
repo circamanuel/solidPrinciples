@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\SandBoxSolid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA43B13-EF6F-4281-9969-DC1E8FCEA38A}|SandBoxSolid\\SandBoxSolid.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\sandboxsolid\\sandboxsolid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA43B13-EF6F-4281-9969-DC1E8FCEA38A}|SandBoxSolid\\SandBoxSolid.csproj|solutionrelative:sandboxsolid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA43B13-EF6F-4281-9969-DC1E8FCEA38A}|SandBoxSolid\\SandBoxSolid.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\sandboxsolid\\sandboxsolid\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA43B13-EF6F-4281-9969-DC1E8FCEA38A}|SandBoxSolid\\SandBoxSolid.csproj|solutionrelative:sandboxsolid\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA43B13-EF6F-4281-9969-DC1E8FCEA38A}|SandBoxSolid\\SandBoxSolid.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\sandboxsolid\\sandboxsolid\\generate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA43B13-EF6F-4281-9969-DC1E8FCEA38A}|SandBoxSolid\\SandBoxSolid.csproj|solutionrelative:sandboxsolid\\generate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA43B13-EF6F-4281-9969-DC1E8FCEA38A}|SandBoxSolid\\SandBoxSolid.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\sandboxsolid\\sandboxsolid\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA43B13-EF6F-4281-9969-DC1E8FCEA38A}|SandBoxSolid\\SandBoxSolid.csproj|solutionrelative:sandboxsolid\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA43B13-EF6F-4281-9969-DC1E8FCEA38A}|SandBoxSolid\\SandBoxSolid.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\sandboxsolid\\sandboxsolid\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA43B13-EF6F-4281-9969-DC1E8FCEA38A}|SandBoxSolid\\SandBoxSolid.csproj|solutionrelative:sandboxsolid\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA43B13-EF6F-4281-9969-DC1E8FCEA38A}|SandBoxSolid\\SandBoxSolid.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\sandboxsolid\\sandboxsolid\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA43B13-EF6F-4281-9969-DC1E8FCEA38A}|SandBoxSolid\\SandBoxSolid.csproj|solutionrelative:sandboxsolid\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\SandBoxSolid\\SandBoxSolid\\Program.cs",
+              "RelativeDocumentMoniker": "SandBoxSolid\\Program.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\SandBoxSolid\\SandBoxSolid\\Program.cs*",
+              "RelativeToolTip": "SandBoxSolid\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T12:13:13.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\SandBoxSolid\\SandBoxSolid\\Employee.cs",
+              "RelativeDocumentMoniker": "SandBoxSolid\\Employee.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\SandBoxSolid\\SandBoxSolid\\Employee.cs*",
+              "RelativeToolTip": "SandBoxSolid\\Employee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T12:15:05.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\SandBoxSolid\\SandBoxSolid\\Calculate.cs",
+              "RelativeDocumentMoniker": "SandBoxSolid\\Calculate.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\SandBoxSolid\\SandBoxSolid\\Calculate.cs*",
+              "RelativeToolTip": "SandBoxSolid\\Calculate.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T12:16:05.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Save.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\SandBoxSolid\\SandBoxSolid\\Save.cs",
+              "RelativeDocumentMoniker": "SandBoxSolid\\Save.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\SandBoxSolid\\SandBoxSolid\\Save.cs*",
+              "RelativeToolTip": "SandBoxSolid\\Save.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T12:18:08.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Generate.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\SandBoxSolid\\SandBoxSolid\\Generate.cs",
+              "RelativeDocumentMoniker": "SandBoxSolid\\Generate.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\SandBoxSolid\\SandBoxSolid\\Generate.cs*",
+              "RelativeToolTip": "SandBoxSolid\\Generate.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T12:19:21.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SendEmail.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\SandBoxSolid\\SandBoxSolid\\SendEmail.cs",
+              "RelativeDocumentMoniker": "SandBoxSolid\\SendEmail.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\SandBoxSolid\\SandBoxSolid\\SendEmail.cs*",
+              "RelativeToolTip": "SandBoxSolid\\SendEmail.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T12:18:47.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

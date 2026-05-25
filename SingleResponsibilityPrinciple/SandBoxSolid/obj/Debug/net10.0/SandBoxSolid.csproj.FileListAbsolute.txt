@@ -1,0 +1,15 @@
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\bin\Debug\net10.0\SandBoxSolid.exe
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\bin\Debug\net10.0\SandBoxSolid.deps.json
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\bin\Debug\net10.0\SandBoxSolid.runtimeconfig.json
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\bin\Debug\net10.0\SandBoxSolid.dll
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\bin\Debug\net10.0\SandBoxSolid.pdb
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\obj\Debug\net10.0\SandBoxSolid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\obj\Debug\net10.0\SandBoxSolid.AssemblyInfoInputs.cache
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\obj\Debug\net10.0\SandBoxSolid.AssemblyInfo.cs
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\obj\Debug\net10.0\SandBoxSolid.csproj.CoreCompileInputs.cache
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\obj\Debug\net10.0\SandBoxSolid.sourcelink.json
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\obj\Debug\net10.0\SandBoxSolid.dll
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\obj\Debug\net10.0\refint\SandBoxSolid.dll
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\obj\Debug\net10.0\SandBoxSolid.pdb
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\obj\Debug\net10.0\SandBoxSolid.genruntimeconfig.cache
+C:\Users\manu_\source\repos\ASP.NET\SandBoxSolid\SandBoxSolid\obj\Debug\net10.0\ref\SandBoxSolid.dll

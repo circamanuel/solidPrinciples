@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5EE334-AB60-4F24-9192-BBB2766ED3E8}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\interfacesegregationprinciple\\interfacesegregationprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5EE334-AB60-4F24-9192-BBB2766ED3E8}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5EE334-AB60-4F24-9192-BBB2766ED3E8}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\interfacesegregationprinciple\\interfacesegregationprinciple\\canonsimpleprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5EE334-AB60-4F24-9192-BBB2766ED3E8}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\canonsimpleprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5EE334-AB60-4F24-9192-BBB2766ED3E8}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\interfacesegregationprinciple\\interfacesegregationprinciple\\hpofficejet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5EE334-AB60-4F24-9192-BBB2766ED3E8}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\hpofficejet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5EE334-AB60-4F24-9192-BBB2766ED3E8}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\interfacesegregationprinciple\\interfacesegregationprinciple\\icopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5EE334-AB60-4F24-9192-BBB2766ED3E8}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\icopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5EE334-AB60-4F24-9192-BBB2766ED3E8}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\interfacesegregationprinciple\\interfacesegregationprinciple\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5EE334-AB60-4F24-9192-BBB2766ED3E8}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5EE334-AB60-4F24-9192-BBB2766ED3E8}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\interfacesegregationprinciple\\interfacesegregationprinciple\\iscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5EE334-AB60-4F24-9192-BBB2766ED3E8}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\iscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5EE334-AB60-4F24-9192-BBB2766ED3E8}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\interfacesegregationprinciple\\interfacesegregationprinciple\\ifax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5EE334-AB60-4F24-9192-BBB2766ED3E8}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\ifax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CanonSimplePrinter.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\CanonSimplePrinter.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\CanonSimplePrinter.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\CanonSimplePrinter.cs*",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\CanonSimplePrinter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:18:52.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HpOfficeJet.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\HpOfficeJet.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\HpOfficeJet.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\HpOfficeJet.cs*",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\HpOfficeJet.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:14:34.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICopy.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\ICopy.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\ICopy.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\ICopy.cs*",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\ICopy.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:12:08.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFax.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\IFax.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\IFax.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\IFax.cs*",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\IFax.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:11:56.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IScan.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\IScan.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\IScan.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\IScan.cs*",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\IScan.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:11:41.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrint.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\IPrint.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\IPrint.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\IPrint.cs*",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\IPrint.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:11:24.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Program.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Program.cs*",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T09:45:15.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
